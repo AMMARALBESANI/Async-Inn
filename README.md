@@ -7,7 +7,7 @@ Date: 16/7/2023
 Description :
 The Async Inn Hotel Asset Management System is a web-based API designed to help Async Inn, a local hotel chain, better manage their hotel assets across multiple locations. This project aims to provide a RESTful API server that allows the management of rooms, amenities, and new hotel locations. The system leverages a relational database to store and maintain the integrity of the data.
 
-![](./Async-Inn-ERD(1).png)
+![](./AmmarAsync-Inn-ERD.png)
 
 # ERD Table
 
